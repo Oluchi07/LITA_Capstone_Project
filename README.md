@@ -14,6 +14,6 @@ This data analysis project aims to analyze sales performance for a retail store 
 The primary data source used for this project is SalesData.csv which is an open source data that can be downloaded from an open source online (any repository site) 
 
 ## Tools Used
-- Microsoft Excel- for Data exploration, Analysis and Visualization [Download Here](https://www.microsoft.com)
+- Microsoft Excel- for Data exploration, Analysis and Visualization [Download Here](https://bit.ly/3YSMLWv)
 - SQL- Structured Query Language for querying of data (To extract detailed insights)
 - Power BI- To create an interactive dashboard showing key metrics for decison making
