@@ -24,7 +24,7 @@ The primary data source used for this project is SalesData.csv which is an open 
 
 ## Tools Used
 - Microsoft Excel- for Data exploration, Analysis and Visualization [Download Here](https://bit.ly/3YSMLWv)
-- SQL- Structured Query Language for querying of data (To extract detailed insights) [Download Here](https://bit.ly/3YSMLWv)
+- SQL- Structured Query Language for querying of data (To extract detailed insights) [Download Here](https://bit.ly/3YGveQ0)
 - Power BI- To create an interactive dashboard showing key metrics for decison making [Download Here](https://bit.ly/3YSMLWv)
 - Github- For Portfolio Building
 
